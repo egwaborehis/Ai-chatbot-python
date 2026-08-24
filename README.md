@@ -1,6 +1,6 @@
 ## Python AI Chatbot
 
-A Python-based conversational AI chatbot built as part of my AI development learning.
+A Python-based conversational AI chatbot built as part of my exposure to how AI works on a small basic scale
 This project included me integrating an external AI API into a Python application while managing conversation state and user input.
 
 ## Features would include:
